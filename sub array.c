@@ -1,4 +1,3 @@
-
 /*In an array X of size M where the array elements contain values from 1 to M with duplicates, the task is to find total number of sub arrays which start and end with the same element.*/
 #include<iostream>
 using namespace std; 
