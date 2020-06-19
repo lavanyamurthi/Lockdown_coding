@@ -1,4 +1,4 @@
-//Write a C Program to Count total set bits in all numbers from 1 to n 
+//Write a  Program to Count total set bits in all numbers from 1 to n 
 import java.util.Scanner;
 import java.util.*;
 
